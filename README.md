@@ -1,4 +1,4 @@
-# EDA-Assignment-capstone-16-
+# EDA-assignment-capstone-16-
 This repository contains one of two data visualization assignments for HyperionDev 
 
 The modern automobile is a complex technical system employing subsystems with specific design functions. Some of these consist of thousands of component parts that have evolved from breakthroughs in existing technology or from new technologies such as electronic computers, high-strength plastics, and new alloys of steel and nonferrous metals.
